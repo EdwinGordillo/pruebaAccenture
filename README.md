@@ -35,10 +35,13 @@ Pruebas realizadas con MockMvc y manualmente.
 
 Franquicia data prueba
 ![FRANQUICIA](image-1.png)
+
+
 Sucursal data prueba
 ![SUCURSAL](image-2.png)
+
+
 Productos data prueba
 ![PRODUCTOS](image.png)
 
-POSTMAN
-[Postman](<../../../Downloads/Prueba Accenture.postman_collection.json>)
+Postman en el correo que se envia la prueba.
